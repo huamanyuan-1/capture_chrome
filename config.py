@@ -1,0 +1,11 @@
+# chrome_path = 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+chrome_path = "C:\\Users\\hua\\Downloads\\chrome-win64\\chrome.exe"
+ssl_key_log_file = 'C:\\Users\\hua\\Documents\\sslkeylog\\keylog.txt'
+# interface = 'Ethernet0'
+interface = 'Adapter for loopback traffic capture'
+tshark_path = r'C:\Program Files\Wireshark\tshark.exe'
+url = 'https://x.com/explore'
+# url = 'https://www.google.com/'
+file_name = 'x'
+behavior_name = 'explore'
+behavior_num = 1
