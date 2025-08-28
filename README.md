@@ -1,4 +1,4 @@
-🇨🇳 [**中文版本**](README.zh-CN.md)
+[**中文版本**](README.zh-CN.md)
 # Chrome Network Traffic Capture Tool
 
 This is a tool that uses Selenium and tshark to automatically capture network traffic from the Chrome browser. It can automatically open the Chrome browser, perform predefined user behaviors (such as searching), capture network traffic and save it as a pcap file, and save SSL/TLS key logs.

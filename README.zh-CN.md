@@ -1,4 +1,4 @@
-🇺🇸 [**English Version**](README.md)
+[**English Version**](README.md)
 # Chrome网络流量捕获工具
 
 这是一个使用Selenium和tshark自动捕获Chrome浏览器网络流量的工具。它能够自动打开Chrome浏览器，执行预定义的用户行为（如搜索），同时捕获网络流量并保存为pcap文件，以及保存SSL/TLS密钥日志。
